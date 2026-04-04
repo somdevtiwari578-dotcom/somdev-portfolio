@@ -16,7 +16,7 @@ It showcases my academic journey, skills, and projects in a professional layout.
 3. Explore the portfolio website.
 
 ## 🔗 Live Demo
-[View Portfolio](https://somdevtiwari578.github.io/somdev-portfolio/)
+[View Portfolio](https://somdevtiwari578-dotcom.github.io/somdev-portfolio/)
 
 ## 👨‍💻 Author
 **Somdev Tiwari**  
