@@ -2,7 +2,7 @@
 "Somdev Tiwari’s portfolio – a web-based showcase of academic projects, skills, and achievements.”
 
 ## 📖 About Project
-This is a responsive portfolio website built with HTML, CSS, and JavaScript.  
+This is a responsive portfolio website built with HTML, CSS.  
 It showcases my academic journey, skills, and projects in a professional layout.
 
 ## ✨ Features
